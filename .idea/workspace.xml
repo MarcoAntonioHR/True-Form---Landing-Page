@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f9fc2418-ffc3-4df7-a290-86f5a65d4825" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/images/Alvaro Erick Jordan Villa.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/images/Dayron Mejía Vara.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/images/Lesly Solanshg Balta Callupe.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/images/Marco Antonio Huamancayo Rojas.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/images/Rivera Aguilar Brayan Fabricio.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/images/logo.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/scripts/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/assets/styles/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/html/beneficios.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/html/contacto.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/html/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/html/nosotros.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/html/registro.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/html/resenas.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3FT8ZbUOFXEMbF5d5BMMPTqWtUV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "master",
+    "javascript.preferred.runtime.type.id": "node",
+    "last_opened_file_path": "C:/Users/User/OneDrive/Escritorio/LandingPage TrueForm",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/User/OneDrive/Escritorio/Proyectos WB/src/main.js",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\OneDrive\Escritorio\LandingPage TrueForm\public\html" />
+      <recent name="C:\Users\User\OneDrive\Escritorio\LandingPage TrueForm\public\assets\images" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-WS-261.25134.101" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f9fc2418-ffc3-4df7-a290-86f5a65d4825" name="Changes" comment="" />
+      <created>1782087764363</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1782087764363</updated>
+      <workItem from="1782087769764" duration="1815000" />
+      <workItem from="1782089933164" duration="389000" />
+      <workItem from="1782090612887" duration="5351000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
